@@ -1,0 +1,15 @@
+C:\Users\rxtma\Desktop\PVz\ComputerClubTemplate\ComputerClubTemplate\bin\Debug\net6.0\ComputerClubTemplate.exe
+C:\Users\rxtma\Desktop\PVz\ComputerClubTemplate\ComputerClubTemplate\bin\Debug\net6.0\ComputerClubTemplate.deps.json
+C:\Users\rxtma\Desktop\PVz\ComputerClubTemplate\ComputerClubTemplate\bin\Debug\net6.0\ComputerClubTemplate.runtimeconfig.json
+C:\Users\rxtma\Desktop\PVz\ComputerClubTemplate\ComputerClubTemplate\bin\Debug\net6.0\ComputerClubTemplate.dll
+C:\Users\rxtma\Desktop\PVz\ComputerClubTemplate\ComputerClubTemplate\bin\Debug\net6.0\ComputerClubTemplate.pdb
+C:\Users\rxtma\Desktop\PVz\ComputerClubTemplate\ComputerClubTemplate\obj\Debug\net6.0\ComputerClubTemplate.csproj.AssemblyReference.cache
+C:\Users\rxtma\Desktop\PVz\ComputerClubTemplate\ComputerClubTemplate\obj\Debug\net6.0\ComputerClubTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rxtma\Desktop\PVz\ComputerClubTemplate\ComputerClubTemplate\obj\Debug\net6.0\ComputerClubTemplate.AssemblyInfoInputs.cache
+C:\Users\rxtma\Desktop\PVz\ComputerClubTemplate\ComputerClubTemplate\obj\Debug\net6.0\ComputerClubTemplate.AssemblyInfo.cs
+C:\Users\rxtma\Desktop\PVz\ComputerClubTemplate\ComputerClubTemplate\obj\Debug\net6.0\ComputerClubTemplate.csproj.CoreCompileInputs.cache
+C:\Users\rxtma\Desktop\PVz\ComputerClubTemplate\ComputerClubTemplate\obj\Debug\net6.0\ComputerClubTemplate.dll
+C:\Users\rxtma\Desktop\PVz\ComputerClubTemplate\ComputerClubTemplate\obj\Debug\net6.0\refint\ComputerClubTemplate.dll
+C:\Users\rxtma\Desktop\PVz\ComputerClubTemplate\ComputerClubTemplate\obj\Debug\net6.0\ComputerClubTemplate.pdb
+C:\Users\rxtma\Desktop\PVz\ComputerClubTemplate\ComputerClubTemplate\obj\Debug\net6.0\ComputerClubTemplate.genruntimeconfig.cache
+C:\Users\rxtma\Desktop\PVz\ComputerClubTemplate\ComputerClubTemplate\obj\Debug\net6.0\ref\ComputerClubTemplate.dll
